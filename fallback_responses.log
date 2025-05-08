@@ -1,0 +1,882 @@
+2025-05-06 19:38:53,836 - model_manager - ERROR - Error initializing Gemini model: GOOGLE_API_KEY not found in environment variables
+2025-05-06 20:02:23,054 - model_manager - ERROR - Error initializing Gemini model: GOOGLE_API_KEY not found in environment variables
+2025-05-06 20:02:23,366 - db_utils - ERROR - Error connecting to MongoDB: No default database defined
+2025-05-06 20:10:19,298 - model_manager - ERROR - Error initializing Gemini model: GOOGLE_API_KEY not found in environment variables
+2025-05-06 20:10:19,481 - db_utils - ERROR - Error connecting to MongoDB: No default database defined
+2025-05-06 20:43:58,164 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 20:43:58,164 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 20:43:58,165 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 20:43:58,165 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 20:43:58,167 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 20:43:58,167 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 20:44:03,060 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-06 21:26:38,705 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:26:38,713 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:26:38,730 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:26:38,755 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:26:38,764 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:26:38,845 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:26:39,142 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:26:39,143 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:26:39,155 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:26:40,589 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:26:40,602 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:26:40,658 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:26:40,662 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:26:40,712 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:26:40,716 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:26:40,896 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:26:40,897 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:26:40,897 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:26:40,897 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:26:40,898 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:26:40,898 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:27:13,799 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 21:27:13,801 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:27:16,164 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 21:27:16,166 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:27:38,370 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:27:38,371 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:28:04,892 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:28:04,894 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:28:04,914 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 21:28:32,275 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:28:32,276 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:28:32,278 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 21:28:44,184 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:28:44,186 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:28:44,187 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 21:55:35,062 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,063 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,063 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:55:35,131 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,132 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,133 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:55:35,226 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,227 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 21:55:35,228 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:55:36,889 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:55:36,902 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:55:36,907 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:55:36,908 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:55:37,228 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:55:37,231 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:55:37,237 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:55:37,237 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:55:37,523 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 21:55:37,525 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 21:55:37,527 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:55:37,528 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 21:56:24,315 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 21:56:24,315 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:56:25,356 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:56:25,358 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:56:25,361 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 21:56:27,379 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 21:56:27,382 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:56:28,405 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:56:28,420 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:56:28,442 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 21:56:31,091 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 21:56:31,092 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 21:56:32,129 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 21:56:32,130 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 21:56:32,137 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:03:41,239 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:41,239 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:41,240 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:41,387 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:41,388 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:41,389 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:42,253 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:42,255 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:42,256 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:44,155 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:44,162 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:44,165 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:44,166 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:03:44,549 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:48,228 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:48,316 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:48,347 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:03:48,922 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:48,922 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:48,923 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:48,962 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:49,027 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:49,216 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:49,282 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:03:49,284 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:03:49,287 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:03:49,855 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:49,862 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:49,869 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:49,870 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:03:51,590 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:51,592 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:51,605 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:51,606 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:03:51,940 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:51,942 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:51,946 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:03:51,948 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:03:51,959 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:51,960 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:03:52,698 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:03:52,699 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:04:58,105 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:04:58,106 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:04:58,108 - __main__ - ERROR - Error in main function: st.session_state has no attribute "is_authenticated". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
+2025-05-06 22:05:11,740 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:05:11,741 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:05:12,104 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:05:12,106 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:05:12,108 - __main__ - ERROR - Error in main function: st.session_state has no attribute "is_authenticated". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
+2025-05-06 22:05:15,014 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:05:15,016 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:05:15,022 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:05:21,188 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:05:21,190 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:05:23,683 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:05:23,685 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:05:24,808 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:05:24,809 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:05:24,810 - __main__ - ERROR - Error in main function: st.session_state has no attribute "is_authenticated". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
+2025-05-06 22:10:09,220 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,222 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,223 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:10:09,324 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,325 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,326 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:10:09,563 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,564 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:10:09,565 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:10:11,852 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:10:11,858 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:10:11,861 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:10:11,861 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:10:12,149 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:10:12,154 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:10:12,159 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:10:12,162 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:10:12,486 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:10:12,490 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:10:12,493 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:10:12,494 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:11:05,096 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:11:05,098 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:11:06,705 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:11:06,707 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:11:07,725 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:11:07,727 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:11:07,731 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:11:09,431 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:11:09,432 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:11:09,865 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:11:09,867 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:11:09,870 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:11:12,234 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:11:12,237 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:11:12,241 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:19:09,296 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:19:09,418 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:19:09,446 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:19:10,203 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:19:10,204 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:19:10,205 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:19:11,185 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:19:11,185 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:19:11,186 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:19:13,294 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:19:13,307 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:19:13,309 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:19:13,310 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:19:14,462 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:19:14,466 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:19:14,467 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:19:14,469 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:19:15,587 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:19:15,591 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:19:15,593 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:19:15,594 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:19:59,143 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:19:59,144 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:20:08,744 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:20:08,746 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:20:13,815 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:20:13,816 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:20:16,125 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:20:16,127 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:20:16,130 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:34:41,813 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:34:41,868 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:34:42,039 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:34:44,489 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:34:44,491 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:34:44,493 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:34:44,820 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-06 22:34:44,821 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-06 22:34:44,822 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:34:45,391 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:34:45,396 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:34:45,398 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:34:45,399 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:34:47,537 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:34:47,540 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:34:47,544 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:34:47,545 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:34:48,630 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-06 22:34:48,635 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-06 22:34:48,642 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:34:48,643 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-06 22:35:51,939 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:35:51,943 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:35:53,108 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-06 22:35:53,110 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:35:54,243 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-06 22:35:54,244 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-06 22:35:55,470 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:35:55,473 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:35:55,479 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:35:57,395 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:35:57,398 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:35:57,402 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-06 22:35:58,404 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-06 22:35:58,406 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-06 22:35:58,411 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 08:59:46,451 - model_manager - INFO - Available model: models/chat-bison-001
+2025-05-07 08:59:46,452 - model_manager - INFO - Available model: models/text-bison-001
+2025-05-07 08:59:46,453 - model_manager - INFO - Available model: models/embedding-gecko-001
+2025-05-07 08:59:46,454 - model_manager - INFO - Available model: models/gemini-1.0-pro-vision-latest
+2025-05-07 08:59:46,455 - model_manager - INFO - Available model: models/gemini-pro-vision
+2025-05-07 08:59:46,455 - model_manager - INFO - Available model: models/gemini-1.5-pro-latest
+2025-05-07 08:59:46,456 - model_manager - INFO - Available model: models/gemini-1.5-pro-001
+2025-05-07 08:59:46,457 - model_manager - INFO - Available model: models/gemini-1.5-pro-002
+2025-05-07 08:59:46,457 - model_manager - INFO - Available model: models/gemini-1.5-pro
+2025-05-07 08:59:46,458 - model_manager - INFO - Available model: models/gemini-1.5-flash-latest
+2025-05-07 08:59:46,460 - model_manager - INFO - Available model: models/gemini-1.5-flash-001
+2025-05-07 08:59:46,461 - model_manager - INFO - Available model: models/gemini-1.5-flash-001-tuning
+2025-05-07 08:59:46,462 - model_manager - INFO - Available model: models/gemini-1.5-flash
+2025-05-07 08:59:46,463 - model_manager - INFO - Available model: models/gemini-1.5-flash-002
+2025-05-07 08:59:46,464 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b
+2025-05-07 08:59:46,465 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-001
+2025-05-07 08:59:46,466 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-latest
+2025-05-07 08:59:46,467 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0827
+2025-05-07 08:59:46,468 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0924
+2025-05-07 08:59:46,469 - model_manager - INFO - Available model: models/gemini-2.5-pro-exp-03-25
+2025-05-07 08:59:46,470 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-03-25
+2025-05-07 08:59:46,471 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17
+2025-05-07 08:59:46,471 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-05-06
+2025-05-07 08:59:46,472 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp
+2025-05-07 08:59:46,473 - model_manager - INFO - Available model: models/gemini-2.0-flash
+2025-05-07 08:59:46,474 - model_manager - INFO - Available model: models/gemini-2.0-flash-001
+2025-05-07 08:59:46,474 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp-image-generation
+2025-05-07 08:59:46,475 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-001
+2025-05-07 08:59:46,476 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite
+2025-05-07 08:59:46,477 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview-02-05
+2025-05-07 08:59:46,478 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview
+2025-05-07 08:59:46,478 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp
+2025-05-07 08:59:46,479 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp-02-05
+2025-05-07 08:59:46,480 - model_manager - INFO - Available model: models/gemini-exp-1206
+2025-05-07 08:59:46,480 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-01-21
+2025-05-07 08:59:46,482 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp
+2025-05-07 08:59:46,482 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-1219
+2025-05-07 08:59:46,483 - model_manager - INFO - Available model: models/learnlm-1.5-pro-experimental
+2025-05-07 08:59:46,484 - model_manager - INFO - Available model: models/learnlm-2.0-flash-experimental
+2025-05-07 08:59:46,485 - model_manager - INFO - Available model: models/gemma-3-1b-it
+2025-05-07 08:59:46,486 - model_manager - INFO - Available model: models/gemma-3-4b-it
+2025-05-07 08:59:46,487 - model_manager - INFO - Available model: models/gemma-3-12b-it
+2025-05-07 08:59:46,488 - model_manager - INFO - Available model: models/gemma-3-27b-it
+2025-05-07 08:59:46,488 - model_manager - INFO - Available model: models/embedding-001
+2025-05-07 08:59:46,489 - model_manager - INFO - Available model: models/text-embedding-004
+2025-05-07 08:59:46,489 - model_manager - INFO - Available model: models/gemini-embedding-exp-03-07
+2025-05-07 08:59:46,490 - model_manager - INFO - Available model: models/gemini-embedding-exp
+2025-05-07 08:59:46,490 - model_manager - INFO - Available model: models/aqa
+2025-05-07 08:59:46,491 - model_manager - INFO - Available model: models/imagen-3.0-generate-002
+2025-05-07 08:59:46,491 - model_manager - INFO - Available model: models/gemini-2.0-flash-live-001
+2025-05-07 08:59:46,492 - model_manager - INFO - Model manager initialized successfully with models/gemini-1.5-flash
+2025-05-07 08:59:47,032 - db_utils - ERROR - Error connecting to MongoDB: No default database defined
+2025-05-07 08:59:58,295 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-05-07 09:00:34,922 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-07 09:00:34,923 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-07 09:00:34,925 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:00:37,682 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 09:00:37,692 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:00:37,697 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:00:37,699 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 09:01:17,395 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 09:01:17,396 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 09:01:20,795 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-07 09:01:20,797 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:01:20,801 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 09:01:25,153 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-07 09:02:41,056 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-07 09:02:41,057 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-07 09:02:41,061 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:02:43,968 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 09:02:43,973 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:02:43,982 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:02:43,983 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 09:03:13,280 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 09:03:13,281 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 09:03:13,301 - db_utils - ERROR - Error registering user: 'NoneType' object has no attribute 'users'
+2025-05-07 09:05:37,445 - __main__ - ERROR - Error connecting to MongoDB: MONGODB_URI not found in environment variables
+2025-05-07 09:05:37,446 - __main__ - ERROR - Error connecting to database: MONGODB_URI not found in environment variables
+2025-05-07 09:05:37,447 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:05:39,867 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 09:05:39,872 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:05:39,876 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:05:39,877 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 09:06:10,363 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 09:06:10,364 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 09:06:10,380 - db_utils - ERROR - Error registering user: 'NoneType' object has no attribute 'users'
+2025-05-07 09:08:05,711 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 09:08:05,712 - __main__ - INFO - Database connection established successfully
+2025-05-07 09:08:05,713 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:08:06,816 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 09:08:06,819 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:08:06,824 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:08:06,825 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 09:08:32,798 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 09:08:32,798 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 09:08:32,815 - db_utils - ERROR - Error registering user: 'NoneType' object has no attribute 'users'
+2025-05-07 09:09:01,158 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 09:09:01,160 - __main__ - INFO - Database connection established successfully
+2025-05-07 09:09:01,163 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 09:09:03,498 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 09:09:03,503 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:09:03,508 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 09:09:03,508 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 09:09:24,445 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 09:09:24,447 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 09:09:24,465 - db_utils - ERROR - Error registering user: 'NoneType' object has no attribute 'users'
+2025-05-07 10:57:16,500 - model_manager - INFO - Available model: models/chat-bison-001
+2025-05-07 10:57:16,505 - model_manager - INFO - Available model: models/text-bison-001
+2025-05-07 10:57:16,507 - model_manager - INFO - Available model: models/embedding-gecko-001
+2025-05-07 10:57:16,507 - model_manager - INFO - Available model: models/gemini-1.0-pro-vision-latest
+2025-05-07 10:57:16,508 - model_manager - INFO - Available model: models/gemini-pro-vision
+2025-05-07 10:57:16,509 - model_manager - INFO - Available model: models/gemini-1.5-pro-latest
+2025-05-07 10:57:16,510 - model_manager - INFO - Available model: models/gemini-1.5-pro-001
+2025-05-07 10:57:16,510 - model_manager - INFO - Available model: models/gemini-1.5-pro-002
+2025-05-07 10:57:16,511 - model_manager - INFO - Available model: models/gemini-1.5-pro
+2025-05-07 10:57:16,511 - model_manager - INFO - Available model: models/gemini-1.5-flash-latest
+2025-05-07 10:57:16,512 - model_manager - INFO - Available model: models/gemini-1.5-flash-001
+2025-05-07 10:57:16,513 - model_manager - INFO - Available model: models/gemini-1.5-flash-001-tuning
+2025-05-07 10:57:16,513 - model_manager - INFO - Available model: models/gemini-1.5-flash
+2025-05-07 10:57:16,514 - model_manager - INFO - Available model: models/gemini-1.5-flash-002
+2025-05-07 10:57:16,515 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b
+2025-05-07 10:57:16,515 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-001
+2025-05-07 10:57:16,516 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-latest
+2025-05-07 10:57:16,516 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0827
+2025-05-07 10:57:16,517 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0924
+2025-05-07 10:57:16,518 - model_manager - INFO - Available model: models/gemini-2.5-pro-exp-03-25
+2025-05-07 10:57:16,518 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-03-25
+2025-05-07 10:57:16,519 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17
+2025-05-07 10:57:16,519 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-05-06
+2025-05-07 10:57:16,520 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp
+2025-05-07 10:57:16,521 - model_manager - INFO - Available model: models/gemini-2.0-flash
+2025-05-07 10:57:16,521 - model_manager - INFO - Available model: models/gemini-2.0-flash-001
+2025-05-07 10:57:16,522 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp-image-generation
+2025-05-07 10:57:16,523 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-001
+2025-05-07 10:57:16,523 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite
+2025-05-07 10:57:16,524 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview-02-05
+2025-05-07 10:57:16,525 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview
+2025-05-07 10:57:16,525 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp
+2025-05-07 10:57:16,526 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp-02-05
+2025-05-07 10:57:16,527 - model_manager - INFO - Available model: models/gemini-exp-1206
+2025-05-07 10:57:16,527 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-01-21
+2025-05-07 10:57:16,528 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp
+2025-05-07 10:57:16,529 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-1219
+2025-05-07 10:57:16,529 - model_manager - INFO - Available model: models/learnlm-1.5-pro-experimental
+2025-05-07 10:57:16,530 - model_manager - INFO - Available model: models/learnlm-2.0-flash-experimental
+2025-05-07 10:57:16,530 - model_manager - INFO - Available model: models/gemma-3-1b-it
+2025-05-07 10:57:16,530 - model_manager - INFO - Available model: models/gemma-3-4b-it
+2025-05-07 10:57:16,531 - model_manager - INFO - Available model: models/gemma-3-12b-it
+2025-05-07 10:57:16,532 - model_manager - INFO - Available model: models/gemma-3-27b-it
+2025-05-07 10:57:16,532 - model_manager - INFO - Available model: models/embedding-001
+2025-05-07 10:57:16,533 - model_manager - INFO - Available model: models/text-embedding-004
+2025-05-07 10:57:16,533 - model_manager - INFO - Available model: models/gemini-embedding-exp-03-07
+2025-05-07 10:57:16,534 - model_manager - INFO - Available model: models/gemini-embedding-exp
+2025-05-07 10:57:16,535 - model_manager - INFO - Available model: models/aqa
+2025-05-07 10:57:16,535 - model_manager - INFO - Available model: models/imagen-3.0-generate-002
+2025-05-07 10:57:16,536 - model_manager - INFO - Available model: models/gemini-2.0-flash-live-001
+2025-05-07 10:57:16,539 - model_manager - INFO - Model manager initialized successfully with models/gemini-1.5-flash
+2025-05-07 10:57:16,683 - db_utils - INFO - MongoDB connection established successfully
+2025-05-07 10:57:16,714 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 10:57:16,715 - __main__ - INFO - Database connection established successfully
+2025-05-07 10:57:16,718 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 10:57:18,468 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 10:57:18,476 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 10:57:18,481 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 10:57:18,483 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 10:57:51,152 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 10:57:51,154 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:09:13,173 - model_manager - INFO - Available model: models/chat-bison-001
+2025-05-07 11:09:13,175 - model_manager - INFO - Available model: models/text-bison-001
+2025-05-07 11:09:13,175 - model_manager - INFO - Available model: models/embedding-gecko-001
+2025-05-07 11:09:13,175 - model_manager - INFO - Available model: models/gemini-1.0-pro-vision-latest
+2025-05-07 11:09:13,176 - model_manager - INFO - Available model: models/gemini-pro-vision
+2025-05-07 11:09:13,176 - model_manager - INFO - Available model: models/gemini-1.5-pro-latest
+2025-05-07 11:09:13,177 - model_manager - INFO - Available model: models/gemini-1.5-pro-001
+2025-05-07 11:09:13,177 - model_manager - INFO - Available model: models/gemini-1.5-pro-002
+2025-05-07 11:09:13,177 - model_manager - INFO - Available model: models/gemini-1.5-pro
+2025-05-07 11:09:13,178 - model_manager - INFO - Available model: models/gemini-1.5-flash-latest
+2025-05-07 11:09:13,178 - model_manager - INFO - Available model: models/gemini-1.5-flash-001
+2025-05-07 11:09:13,178 - model_manager - INFO - Available model: models/gemini-1.5-flash-001-tuning
+2025-05-07 11:09:13,179 - model_manager - INFO - Available model: models/gemini-1.5-flash
+2025-05-07 11:09:13,179 - model_manager - INFO - Available model: models/gemini-1.5-flash-002
+2025-05-07 11:09:13,180 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b
+2025-05-07 11:09:13,181 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-001
+2025-05-07 11:09:13,181 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-latest
+2025-05-07 11:09:13,182 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0827
+2025-05-07 11:09:13,183 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0924
+2025-05-07 11:09:13,183 - model_manager - INFO - Available model: models/gemini-2.5-pro-exp-03-25
+2025-05-07 11:09:13,184 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-03-25
+2025-05-07 11:09:13,184 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17
+2025-05-07 11:09:13,185 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-05-06
+2025-05-07 11:09:13,185 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp
+2025-05-07 11:09:13,186 - model_manager - INFO - Available model: models/gemini-2.0-flash
+2025-05-07 11:09:13,186 - model_manager - INFO - Available model: models/gemini-2.0-flash-001
+2025-05-07 11:09:13,187 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp-image-generation
+2025-05-07 11:09:13,187 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-001
+2025-05-07 11:09:13,187 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite
+2025-05-07 11:09:13,188 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview-02-05
+2025-05-07 11:09:13,188 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview
+2025-05-07 11:09:13,188 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp
+2025-05-07 11:09:13,189 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp-02-05
+2025-05-07 11:09:13,189 - model_manager - INFO - Available model: models/gemini-exp-1206
+2025-05-07 11:09:13,190 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-01-21
+2025-05-07 11:09:13,190 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp
+2025-05-07 11:09:13,191 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-1219
+2025-05-07 11:09:13,191 - model_manager - INFO - Available model: models/learnlm-1.5-pro-experimental
+2025-05-07 11:09:13,192 - model_manager - INFO - Available model: models/learnlm-2.0-flash-experimental
+2025-05-07 11:09:13,192 - model_manager - INFO - Available model: models/gemma-3-1b-it
+2025-05-07 11:09:13,192 - model_manager - INFO - Available model: models/gemma-3-4b-it
+2025-05-07 11:09:13,193 - model_manager - INFO - Available model: models/gemma-3-12b-it
+2025-05-07 11:09:13,193 - model_manager - INFO - Available model: models/gemma-3-27b-it
+2025-05-07 11:09:13,193 - model_manager - INFO - Available model: models/embedding-001
+2025-05-07 11:09:13,194 - model_manager - INFO - Available model: models/text-embedding-004
+2025-05-07 11:09:13,194 - model_manager - INFO - Available model: models/gemini-embedding-exp-03-07
+2025-05-07 11:09:13,195 - model_manager - INFO - Available model: models/gemini-embedding-exp
+2025-05-07 11:09:13,195 - model_manager - INFO - Available model: models/aqa
+2025-05-07 11:09:13,195 - model_manager - INFO - Available model: models/imagen-3.0-generate-002
+2025-05-07 11:09:13,196 - model_manager - INFO - Available model: models/gemini-2.0-flash-live-001
+2025-05-07 11:09:13,196 - model_manager - INFO - Model manager initialized successfully with models/gemini-1.5-flash
+2025-05-07 11:09:14,408 - db_utils - INFO - MongoDB connection established successfully
+2025-05-07 11:09:27,795 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-05-07 11:10:05,706 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:10:05,707 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:10:05,709 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:10:07,568 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:10:07,581 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:10:07,588 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:10:07,589 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:10:43,545 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:10:43,546 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:10:46,805 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-07 11:10:46,808 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:10:46,814 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 11:10:50,921 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-07 11:11:17,576 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:11:17,577 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:11:17,578 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:11:20,186 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:11:20,193 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:11:20,200 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:11:20,201 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:12:16,781 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:12:16,782 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:13:12,338 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:13:12,340 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:13:12,341 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:13:15,313 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:13:15,316 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:13:15,320 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:13:15,320 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:13:45,787 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:13:45,791 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:14:03,249 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:14:03,250 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:14:03,251 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:14:05,798 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:14:05,803 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:05,809 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:05,810 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:14:28,121 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:28,122 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:14:29,698 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:14:29,699 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:14:29,700 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:14:32,027 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:14:32,033 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:32,042 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:32,043 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:14:53,028 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:14:53,029 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:15:18,362 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:15:18,363 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:15:18,365 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:15:20,811 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:15:20,814 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:15:20,817 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:15:20,818 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:15:57,952 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:15:57,958 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:20:05,614 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:20:05,615 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:20:05,616 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:20:07,584 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:20:07,589 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:07,594 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:07,595 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:20:34,097 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:34,105 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:20:42,807 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:20:42,808 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:20:42,809 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:20:45,368 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:20:45,371 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:45,373 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:45,374 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:20:48,894 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:20:48,895 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:20:48,897 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:20:51,283 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:20:51,289 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:51,295 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:20:51,296 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:21:23,772 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'bin\\ffmpeg_temp.zip'
+2025-05-07 11:21:23,774 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:21:26,568 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:21:26,569 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:21:55,395 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:21:55,396 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:21:55,399 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:21:58,032 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:21:58,037 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:21:58,044 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:21:58,045 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:22:04,647 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:22:04,648 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:22:04,649 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:22:07,448 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:22:07,451 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:22:07,456 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:22:07,457 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:22:25,658 - __main__ - WARNING - Failed to download ffmpeg binary: Error -3 while decompressing data: invalid block type
+2025-05-07 11:22:25,659 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:22:40,518 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:22:40,519 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:23:52,422 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:23:52,423 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:23:52,424 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:23:54,237 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:23:54,239 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:23:54,241 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:23:54,242 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:24:19,328 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:24:19,329 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 11:24:19,661 - __main__ - INFO - Health assessment saved to database successfully
+2025-05-07 11:24:19,696 - __main__ - INFO - Medical record saved successfully
+2025-05-07 11:24:20,805 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 11:24:20,806 - __main__ - INFO - Database connection established successfully
+2025-05-07 11:24:20,807 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 11:24:23,352 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 11:24:23,356 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:24:23,361 - __main__ - WARNING - Local ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 11:24:23,362 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 11:24:47,690 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 2] The system cannot find the file specified
+2025-05-07 11:24:47,691 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:20:26,241 - model_manager - INFO - Available model: models/chat-bison-001
+2025-05-07 16:20:26,242 - model_manager - INFO - Available model: models/text-bison-001
+2025-05-07 16:20:26,243 - model_manager - INFO - Available model: models/embedding-gecko-001
+2025-05-07 16:20:26,244 - model_manager - INFO - Available model: models/gemini-1.0-pro-vision-latest
+2025-05-07 16:20:26,244 - model_manager - INFO - Available model: models/gemini-pro-vision
+2025-05-07 16:20:26,245 - model_manager - INFO - Available model: models/gemini-1.5-pro-latest
+2025-05-07 16:20:26,245 - model_manager - INFO - Available model: models/gemini-1.5-pro-001
+2025-05-07 16:20:26,248 - model_manager - INFO - Available model: models/gemini-1.5-pro-002
+2025-05-07 16:20:26,249 - model_manager - INFO - Available model: models/gemini-1.5-pro
+2025-05-07 16:20:26,250 - model_manager - INFO - Available model: models/gemini-1.5-flash-latest
+2025-05-07 16:20:26,251 - model_manager - INFO - Available model: models/gemini-1.5-flash-001
+2025-05-07 16:20:26,251 - model_manager - INFO - Available model: models/gemini-1.5-flash-001-tuning
+2025-05-07 16:20:26,252 - model_manager - INFO - Available model: models/gemini-1.5-flash
+2025-05-07 16:20:26,252 - model_manager - INFO - Available model: models/gemini-1.5-flash-002
+2025-05-07 16:20:26,253 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b
+2025-05-07 16:20:26,253 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-001
+2025-05-07 16:20:26,254 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-latest
+2025-05-07 16:20:26,255 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0827
+2025-05-07 16:20:26,255 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0924
+2025-05-07 16:20:26,256 - model_manager - INFO - Available model: models/gemini-2.5-pro-exp-03-25
+2025-05-07 16:20:26,256 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-03-25
+2025-05-07 16:20:26,257 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17
+2025-05-07 16:20:26,257 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17-thinking
+2025-05-07 16:20:26,258 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-05-06
+2025-05-07 16:20:26,259 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp
+2025-05-07 16:20:26,260 - model_manager - INFO - Available model: models/gemini-2.0-flash
+2025-05-07 16:20:26,261 - model_manager - INFO - Available model: models/gemini-2.0-flash-001
+2025-05-07 16:20:26,261 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp-image-generation
+2025-05-07 16:20:26,262 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-001
+2025-05-07 16:20:26,264 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite
+2025-05-07 16:20:26,265 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview-02-05
+2025-05-07 16:20:26,266 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview
+2025-05-07 16:20:26,267 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp
+2025-05-07 16:20:26,268 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp-02-05
+2025-05-07 16:20:26,268 - model_manager - INFO - Available model: models/gemini-exp-1206
+2025-05-07 16:20:26,269 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-01-21
+2025-05-07 16:20:26,269 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp
+2025-05-07 16:20:26,270 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-1219
+2025-05-07 16:20:26,270 - model_manager - INFO - Available model: models/learnlm-1.5-pro-experimental
+2025-05-07 16:20:26,271 - model_manager - INFO - Available model: models/learnlm-2.0-flash-experimental
+2025-05-07 16:20:26,272 - model_manager - INFO - Available model: models/gemma-3-1b-it
+2025-05-07 16:20:26,272 - model_manager - INFO - Available model: models/gemma-3-4b-it
+2025-05-07 16:20:26,272 - model_manager - INFO - Available model: models/gemma-3-12b-it
+2025-05-07 16:20:26,273 - model_manager - INFO - Available model: models/gemma-3-27b-it
+2025-05-07 16:20:26,274 - model_manager - INFO - Available model: models/embedding-001
+2025-05-07 16:20:26,274 - model_manager - INFO - Available model: models/text-embedding-004
+2025-05-07 16:20:26,275 - model_manager - INFO - Available model: models/gemini-embedding-exp-03-07
+2025-05-07 16:20:26,275 - model_manager - INFO - Available model: models/gemini-embedding-exp
+2025-05-07 16:20:26,276 - model_manager - INFO - Available model: models/aqa
+2025-05-07 16:20:26,276 - model_manager - INFO - Available model: models/imagen-3.0-generate-002
+2025-05-07 16:20:26,773 - model_manager - INFO - Available model: models/gemini-2.0-flash-live-001
+2025-05-07 16:20:26,774 - model_manager - INFO - Model manager initialized successfully with models/gemini-1.5-flash
+2025-05-07 16:20:28,470 - db_utils - INFO - MongoDB connection established successfully
+2025-05-07 16:20:39,429 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-05-07 16:21:13,391 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-07 16:21:15,983 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:21:15,984 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:21:15,986 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:21:17,934 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:21:17,937 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:21:18,391 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:21:18,392 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:23:04,254 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:23:04,255 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:23:09,862 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-07 16:23:09,870 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:23:09,880 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 16:23:10,999 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-07 16:26:52,421 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:26:52,421 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:26:52,422 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:26:53,648 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:26:53,652 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:26:53,654 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:26:53,654 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:27:41,058 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:27:41,059 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:27:42,007 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:27:42,007 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:27:42,008 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:27:44,185 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:27:44,189 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:27:44,195 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:27:44,195 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:27:46,114 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:27:46,115 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:27:46,117 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:27:48,877 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:27:48,917 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:27:48,947 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:27:48,952 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:28:18,282 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 16:28:18,285 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:28:19,800 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:28:19,801 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:28:44,179 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:28:44,180 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:28:44,181 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:28:44,491 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:28:44,493 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:28:44,501 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:28:46,706 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:28:46,708 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:28:46,709 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:28:46,710 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:28:46,913 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:28:46,916 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:28:46,919 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:28:46,920 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:29:22,169 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 16:29:22,170 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:29:23,105 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:29:23,105 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:29:23,485 - __main__ - INFO - Medical record saved successfully
+2025-05-07 16:29:25,982 - __main__ - INFO - Conversation saved to database successfully
+2025-05-07 16:29:49,237 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:29:49,240 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:29:49,243 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:29:51,661 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:29:51,663 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:29:51,665 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:29:51,665 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:30:15,504 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:30:15,505 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:33:18,422 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:33:18,423 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:33:18,424 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:33:20,250 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:33:20,254 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:33:20,257 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:33:20,258 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:33:43,894 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:33:43,896 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:33:44,219 - __main__ - ERROR - Error in image analysis interface: ImageMixin.image() got an unexpected keyword argument 'use_container_width'
+2025-05-07 16:33:54,795 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:33:54,795 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:33:54,796 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:33:56,877 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:33:56,880 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:33:56,883 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:33:56,883 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:33:57,546 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:33:57,546 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:33:57,547 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:33:59,052 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 16:33:59,052 - __main__ - INFO - Database connection established successfully
+2025-05-07 16:33:59,053 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 16:34:00,215 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:34:00,229 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:34:00,237 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:34:00,239 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:34:03,396 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 16:34:03,400 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 16:34:03,402 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:34:03,404 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 16:34:52,882 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 16:34:52,884 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:34:53,917 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 16:34:53,923 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 16:34:54,369 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 16:34:54,372 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 17:18:02,241 - model_manager - INFO - Available model: models/chat-bison-001
+2025-05-07 17:18:02,242 - model_manager - INFO - Available model: models/text-bison-001
+2025-05-07 17:18:02,243 - model_manager - INFO - Available model: models/embedding-gecko-001
+2025-05-07 17:18:02,243 - model_manager - INFO - Available model: models/gemini-1.0-pro-vision-latest
+2025-05-07 17:18:02,244 - model_manager - INFO - Available model: models/gemini-pro-vision
+2025-05-07 17:18:02,248 - model_manager - INFO - Available model: models/gemini-1.5-pro-latest
+2025-05-07 17:18:02,249 - model_manager - INFO - Available model: models/gemini-1.5-pro-001
+2025-05-07 17:18:02,249 - model_manager - INFO - Available model: models/gemini-1.5-pro-002
+2025-05-07 17:18:02,250 - model_manager - INFO - Available model: models/gemini-1.5-pro
+2025-05-07 17:18:02,251 - model_manager - INFO - Available model: models/gemini-1.5-flash-latest
+2025-05-07 17:18:02,251 - model_manager - INFO - Available model: models/gemini-1.5-flash-001
+2025-05-07 17:18:02,252 - model_manager - INFO - Available model: models/gemini-1.5-flash-001-tuning
+2025-05-07 17:18:02,253 - model_manager - INFO - Available model: models/gemini-1.5-flash
+2025-05-07 17:18:02,253 - model_manager - INFO - Available model: models/gemini-1.5-flash-002
+2025-05-07 17:18:02,254 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b
+2025-05-07 17:18:02,255 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-001
+2025-05-07 17:18:02,255 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-latest
+2025-05-07 17:18:02,257 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0827
+2025-05-07 17:18:02,257 - model_manager - INFO - Available model: models/gemini-1.5-flash-8b-exp-0924
+2025-05-07 17:18:02,258 - model_manager - INFO - Available model: models/gemini-2.5-pro-exp-03-25
+2025-05-07 17:18:02,258 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-03-25
+2025-05-07 17:18:02,259 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17
+2025-05-07 17:18:02,260 - model_manager - INFO - Available model: models/gemini-2.5-flash-preview-04-17-thinking
+2025-05-07 17:18:02,260 - model_manager - INFO - Available model: models/gemini-2.5-pro-preview-05-06
+2025-05-07 17:18:02,262 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp
+2025-05-07 17:18:02,263 - model_manager - INFO - Available model: models/gemini-2.0-flash
+2025-05-07 17:18:02,263 - model_manager - INFO - Available model: models/gemini-2.0-flash-001
+2025-05-07 17:18:02,264 - model_manager - INFO - Available model: models/gemini-2.0-flash-exp-image-generation
+2025-05-07 17:18:02,264 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-001
+2025-05-07 17:18:02,265 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite
+2025-05-07 17:18:02,265 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview-02-05
+2025-05-07 17:18:02,266 - model_manager - INFO - Available model: models/gemini-2.0-flash-lite-preview
+2025-05-07 17:18:02,267 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp
+2025-05-07 17:18:02,268 - model_manager - INFO - Available model: models/gemini-2.0-pro-exp-02-05
+2025-05-07 17:18:02,268 - model_manager - INFO - Available model: models/gemini-exp-1206
+2025-05-07 17:18:02,269 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-01-21
+2025-05-07 17:18:02,269 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp
+2025-05-07 17:18:02,270 - model_manager - INFO - Available model: models/gemini-2.0-flash-thinking-exp-1219
+2025-05-07 17:18:02,271 - model_manager - INFO - Available model: models/learnlm-1.5-pro-experimental
+2025-05-07 17:18:02,272 - model_manager - INFO - Available model: models/learnlm-2.0-flash-experimental
+2025-05-07 17:18:02,273 - model_manager - INFO - Available model: models/gemma-3-1b-it
+2025-05-07 17:18:02,273 - model_manager - INFO - Available model: models/gemma-3-4b-it
+2025-05-07 17:18:02,274 - model_manager - INFO - Available model: models/gemma-3-12b-it
+2025-05-07 17:18:02,274 - model_manager - INFO - Available model: models/gemma-3-27b-it
+2025-05-07 17:18:02,275 - model_manager - INFO - Available model: models/embedding-001
+2025-05-07 17:18:02,275 - model_manager - INFO - Available model: models/text-embedding-004
+2025-05-07 17:18:02,275 - model_manager - INFO - Available model: models/gemini-embedding-exp-03-07
+2025-05-07 17:18:02,277 - model_manager - INFO - Available model: models/gemini-embedding-exp
+2025-05-07 17:18:02,278 - model_manager - INFO - Available model: models/aqa
+2025-05-07 17:18:02,279 - model_manager - INFO - Available model: models/imagen-3.0-generate-002
+2025-05-07 17:18:03,309 - model_manager - INFO - Available model: models/gemini-2.0-flash-live-001
+2025-05-07 17:18:03,319 - model_manager - INFO - Model manager initialized successfully with models/gemini-1.5-flash
+2025-05-07 17:18:05,203 - db_utils - INFO - MongoDB connection established successfully
+2025-05-07 17:18:16,165 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-05-07 17:18:39,069 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-07 17:18:41,485 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 17:18:41,486 - __main__ - INFO - Database connection established successfully
+2025-05-07 17:18:41,502 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:18:41,505 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 17:18:41,505 - __main__ - INFO - Database connection established successfully
+2025-05-07 17:18:41,506 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:18:44,407 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 17:18:44,422 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 17:18:44,456 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 17:18:44,470 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 17:18:44,872 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:18:44,873 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:18:44,874 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 17:18:44,874 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 17:19:22,599 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 17:19:22,605 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 17:19:25,469 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-07 17:19:25,473 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:19:25,477 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 17:19:25,521 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:19:25,523 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 17:19:26,859 - tensorflow - WARNING - From C:\Users\deeks\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-07 17:19:31,375 - __main__ - INFO - SpeechToText initialized with model size: base on cpu
+2025-05-07 17:19:31,378 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:19:31,382 - __main__ - ERROR - Error loading predictive model: No module named 'sklearn.ensemble._gb_losses'
+2025-05-07 17:19:53,722 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 17:19:53,723 - __main__ - INFO - Database connection established successfully
+2025-05-07 17:19:53,726 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:19:55,979 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 17:19:56,018 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 17:19:56,032 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:19:56,033 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 17:20:17,988 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:20:17,991 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 17:20:19,680 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 17:20:19,683 - __main__ - INFO - Database connection established successfully
+2025-05-07 17:20:19,685 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:20:21,750 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 17:20:21,753 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 17:20:21,756 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:20:21,756 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 17:20:44,324 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:20:44,326 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 17:20:49,944 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 17:20:49,945 - __main__ - INFO - Database connection established successfully
+2025-05-07 17:20:49,946 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 17:20:52,929 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 17:20:52,931 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 17:20:52,933 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 17:20:52,933 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 17:21:12,655 - __main__ - WARNING - Failed to download ffmpeg binary: [Errno 22] Invalid argument: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg-master-latest-win64-gpl\\bin\\ffmpeg.exe'
+2025-05-07 17:21:12,656 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 18:06:47,899 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 18:06:47,909 - __main__ - INFO - Database connection established successfully
+2025-05-07 18:06:47,943 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 18:06:48,972 - __main__ - INFO - MongoDB connection established successfully
+2025-05-07 18:06:49,049 - __main__ - INFO - Database connection established successfully
+2025-05-07 18:06:49,210 - __main__ - INFO - ImageAnalyzer initialized successfully
+2025-05-07 18:06:51,301 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 18:06:51,314 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 18:06:51,316 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 18:06:51,317 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 18:06:51,584 - Predictive_recommendation - INFO - Predictive model loaded successfully
+2025-05-07 18:06:51,586 - __main__ - WARNING - System ffmpeg not available: [WinError 2] The system cannot find the file specified
+2025-05-07 18:06:51,591 - __main__ - WARNING - Local ffmpeg not available: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 18:06:51,591 - __main__ - INFO - Attempting to download pre-built ffmpeg binary...
+2025-05-07 18:10:34,302 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\deeks\\Downloads\\diabetes_unfriend-main\\diabetes_unfriend-main\\bin\\ffmpeg_temp.zip'
+2025-05-07 18:10:34,304 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
+2025-05-07 18:10:39,223 - __main__ - WARNING - Failed to download ffmpeg binary: [WinError 193] %1 is not a valid Win32 application
+2025-05-07 18:10:39,226 - __main__ - WARNING - No ffmpeg installation found. Audio processing may be limited.
