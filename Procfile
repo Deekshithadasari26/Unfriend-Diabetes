@@ -1,1 +1,1 @@
-web: streamlit run diabetes_assistant.py --server.port $PORT 
+web: cd diabetes_unfriend-main && gunicorn wsgi:app --log-file -
