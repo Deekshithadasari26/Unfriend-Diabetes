@@ -1,1 +1,0 @@
-web: cd diabetes_unfriend-main && gunicorn wsgi:app --log-file -
