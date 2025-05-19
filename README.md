@@ -1,6 +1,6 @@
-# 🩺 Diabetes Assistant
+# 🩺 Unfriend-Diabetes
 
-**Diabetes Assistant** is a comprehensive, AI-powered health application designed to assist individuals in managing and understanding their diabetes more effectively. With advanced features like voice and text input, image analysis, health tracking, and AI-generated insights, this app empowers users to take control of their health data in a secure and user-friendly environment.
+**Unfriend-Diabetes** is a comprehensive, AI-powered health application designed to assist individuals in managing and understanding their diabetes more effectively. With advanced features like voice and text input, image analysis, health tracking, and AI-generated insights, this app empowers users to take control of their health data in a secure and user-friendly environment.
 
 ---
 
