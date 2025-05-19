@@ -60,7 +60,6 @@
 
 Make sure the following are installed:
 - Python 3.10 or higher
-- [FFmpeg](https://ffmpeg.org/) (for audio input processing)
 - [MongoDB](https://www.mongodb.com/) (for data storage)
 
 ---
