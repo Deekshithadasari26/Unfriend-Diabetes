@@ -130,4 +130,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For questions, feedback, or contributions, please open an [issue](https://github.com/kashishgidwani/diabetes_unfriend/issues) or submit a pull request via the [GitHub repository](https://github.com/kashishgidwani/diabetes_unfriend).
+For questions, feedback, or contributions, please open an [issue](https://github.com/Deekshithadasari26/Unfriend-Diabetes/issues) or submit a pull request via the [GitHub repository](https://github.com/Deekshithadasari26/Unfriend-Diabetes).
