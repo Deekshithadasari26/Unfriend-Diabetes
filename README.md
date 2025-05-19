@@ -108,18 +108,7 @@ Make sure the following are installed:
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions of all kinds—bug fixes, improvements, and new features.
-
-To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes.
-4. Commit and push: `git commit -m "Add new feature" && git push`
-5. Open a pull request on GitHub.
-
----
 
 ## 📜 License
 
